@@ -3,6 +3,11 @@
    Archivo: ls45-custom.css
 ============================================ */
 
+/* Scroll suave global */
+html {
+    scroll-behavior: smooth;
+}
+
 
 /* =============================================
    0. BOTONES FLOTANTES REDES SOCIALES
