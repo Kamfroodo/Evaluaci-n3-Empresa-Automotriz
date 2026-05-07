@@ -184,6 +184,26 @@
     });
 
     /*------------------
+        Car Lightbox
+    --------------------*/
+    $('.car-lightbox').magnificPopup({
+        type: 'image',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0, 1]
+        },
+        image: {
+            titleSrc: 'title',
+            cursor: 'mfp-zoom-out-cur'
+        },
+        closeBtnInside: false,
+        midClick: true,
+        removalDelay: 300,
+        mainClass: 'mfp-fade'
+    });
+
+    /*------------------
 		Single Product
 	--------------------*/
     $('.car-thumbs-track .ct').on('click', function () {
