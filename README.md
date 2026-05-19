@@ -65,4 +65,4 @@ Dentro de `sass/` están los archivos SCSS separados por componentes: `_header.s
 
 ## Ver el sitio
 
-**Url a Netlify:** https://heartfelt-licorice-750b4b.netlify.app/#contacto
+**Url a Netlify:** https://heartfelt-licorice-750b4b.netlify.app/
