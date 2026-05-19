@@ -4,10 +4,11 @@ Sitio web para LS45 Automotriz, empresa chilena de compra y venta de vehículos 
 
 ## Secciones del sitio
 
-- Vehículos disponibles (con filtros y galería)
+- Inicio
 - Servicios
-- Información de la empresa
-- Blog
+- Nosotros
+- Vehiculos
+- Ubícanos
 - Contacto
 
 ## Decisiones de diseño
